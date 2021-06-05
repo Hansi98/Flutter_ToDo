@@ -1,4 +1,4 @@
-# flutter_todo
+# todo
 
 A new Flutter project.
 
